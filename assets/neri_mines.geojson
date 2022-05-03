@@ -1,0 +1,1638 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.070162624897478",
+          "37.83258147045288"
+        ],
+        "type": "Point"
+      },
+      "id": 29,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 29,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck; County Geologic Report boring ID: 081-294B",
+        "OBJECTID": 29,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.070162624897478",
+          "37.83258147045288"
+        ],
+        "type": "Point"
+      },
+      "id": 30,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 30,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNppc3; County Geologic Report boring ID: 081-294B",
+        "OBJECTID": 30,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.09287468220721",
+          "37.873790456811527"
+        ],
+        "type": "Point"
+      },
+      "id": 57,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 57,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrbck, 2172'; PNnrfck, 2069'; field book ID: 75085",
+        "OBJECTID": 57,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.045653292177718",
+          "37.927059249906854"
+        ],
+        "type": "Point"
+      },
+      "id": 123,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 123,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 1980'; field book ID: 79002",
+        "OBJECTID": 123,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.050093683042903",
+          "37.924379676660799"
+        ],
+        "type": "Point"
+      },
+      "id": 124,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 124,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 1971'; field book ID: 79003",
+        "OBJECTID": 124,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.048074280414781",
+          "37.922980797180671"
+        ],
+        "type": "Point"
+      },
+      "id": 125,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 125,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 1994'; field book ID: 79004",
+        "OBJECTID": 125,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.040382474934702",
+          "37.857902114513209"
+        ],
+        "type": "Point"
+      },
+      "id": 126,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 126,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2160'; field book ID: 79005",
+        "OBJECTID": 126,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.040382474934702",
+          "37.857902114513209"
+        ],
+        "type": "Point"
+      },
+      "id": 127,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 127,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2160'; field book ID: 79005",
+        "OBJECTID": 127,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.061493209156851",
+          "37.873451407346614"
+        ],
+        "type": "Point"
+      },
+      "id": 128,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 128,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrbck, 2166'; field book ID: 79006",
+        "OBJECTID": 128,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.026764747226125",
+          "38.042897368685473"
+        ],
+        "type": "Point"
+      },
+      "id": 139,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 139,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 1628'; field book ID: 79100",
+        "OBJECTID": 139,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.010177663064567",
+          "37.956153490831653"
+        ],
+        "type": "Point"
+      },
+      "id": 140,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 140,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 1960'; field book ID: 80001",
+        "OBJECTID": 140,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.113438397979493",
+          "38.108445215141032"
+        ],
+        "type": "Point"
+      },
+      "id": 142,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 142,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrlral, 878'; PNnrbck, 751'; PNnrfck, 645'; field book ID: 80005",
+        "OBJECTID": 142,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.081917630514809",
+          "38.082296581486673"
+        ],
+        "type": "Point"
+      },
+      "id": 143,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 143,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrlral, 1060'; PNppc6, 768'; field book ID: 80008",
+        "OBJECTID": 143,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.0831879164258",
+          "38.061186835157635"
+        ],
+        "type": "Point"
+      },
+      "id": 144,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 144,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 1330'; field book ID: 80015",
+        "OBJECTID": 144,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.085797369913294",
+          "38.067166755376768"
+        ],
+        "type": "Point"
+      },
+      "id": 145,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 145,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 1295'; field book ID: 80016",
+        "OBJECTID": 145,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.066416452156062",
+          "38.047747681671723"
+        ],
+        "type": "Point"
+      },
+      "id": 146,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 146,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 1480'; field book ID: 80017",
+        "OBJECTID": 146,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.972879314302659",
+          "37.849012664369539"
+        ],
+        "type": "Point"
+      },
+      "id": 147,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 147,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2631'; field book ID: 80018",
+        "OBJECTID": 147,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.060934557172587",
+          "37.965398066894615"
+        ],
+        "type": "Point"
+      },
+      "id": 154,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 154,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNppc6, 1374'; field book ID: 80071",
+        "OBJECTID": 154,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.042964412021206",
+          "37.963999080132695"
+        ],
+        "type": "Point"
+      },
+      "id": 155,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 155,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 1516'; PNppc6, 1378'; field book ID: 80072",
+        "OBJECTID": 155,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.058154457317428",
+          "37.965398572773069"
+        ],
+        "type": "Point"
+      },
+      "id": 173,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 173,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrbck, 1564'; field book ID: 151002",
+        "OBJECTID": 173,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.944345613658754",
+          "37.979029156705792"
+        ],
+        "type": "Point"
+      },
+      "id": 280,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 280,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2327'; PNppc3, 1958'; PNp base, 1850'; field book ID: 224038",
+        "OBJECTID": 280,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.020060467137341",
+          "37.79263305119499"
+        ],
+        "type": "Point"
+      },
+      "id": 377,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 377,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2621'; PNppc6, 2399'; PNppc3, 2297'; field book ID: 226009",
+        "OBJECTID": 377,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.949946271847111",
+          "37.850369738297665"
+        ],
+        "type": "Point"
+      },
+      "id": 409,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 409,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2615'; PNppc3, 2300'; field book ID: 227035",
+        "OBJECTID": 409,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.939911473992595",
+          "37.839379831866459"
+        ],
+        "type": "Point"
+      },
+      "id": 410,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 410,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2733'; PNppc3, 2415'; field book ID: 227036",
+        "OBJECTID": 410,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.01283340307279",
+          "37.956519157629337"
+        ],
+        "type": "Point"
+      },
+      "id": 416,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 416,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 1826'; field book ID: 227043",
+        "OBJECTID": 416,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.043853308068321",
+          "37.921499803874227"
+        ],
+        "type": "Point"
+      },
+      "id": 417,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 417,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2004'; PNppc3, 1787'; field book ID: 227044",
+        "OBJECTID": 417,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.040729736929819",
+          "37.920814134066333"
+        ],
+        "type": "Point"
+      },
+      "id": 418,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 418,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2039'; field book ID: 227045",
+        "OBJECTID": 418,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.025142813383482",
+          "37.945529450589504"
+        ],
+        "type": "Point"
+      },
+      "id": 419,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 419,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 1849'; PNppc6, 1675.08'; field book ID: 227047",
+        "OBJECTID": 419,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.073504775172268",
+          "37.937409202700607"
+        ],
+        "type": "Point"
+      },
+      "id": 424,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 424,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 1639'; field book ID: 227052",
+        "OBJECTID": 424,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.949429246906817",
+          "37.846799415190084"
+        ],
+        "type": "Point"
+      },
+      "id": 427,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Mine",
+        "FUID": 427,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNppc3, 2279'; field book ID: 230041",
+        "OBJECTID": 427,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.25_36_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.094025741129585",
+          "37.950059641517882"
+        ],
+        "type": "Point"
+      },
+      "id": 468,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 468,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 1447'; aperture card: 953018007",
+        "OBJECTID": 468,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.095275657134891",
+          "37.94929884210741"
+        ],
+        "type": "Point"
+      },
+      "id": 469,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 469,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 1458'; aperture card: 953018008",
+        "OBJECTID": 469,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.096535112804915",
+          "37.948889527633568"
+        ],
+        "type": "Point"
+      },
+      "id": 470,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 470,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 1458'; aperture card: 953018009",
+        "OBJECTID": 470,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.019753197700894",
+          "37.956429872149734"
+        ],
+        "type": "Point"
+      },
+      "id": 471,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 471,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 1802'; aperture card: 953018056",
+        "OBJECTID": 471,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.022973557970843",
+          "37.956655512865055"
+        ],
+        "type": "Point"
+      },
+      "id": 472,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 472,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 1745'; aperture card: 953018058",
+        "OBJECTID": 472,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.024233149320196",
+          "37.951589969748241"
+        ],
+        "type": "Point"
+      },
+      "id": 473,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 473,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 1805'; aperture card: 953018059",
+        "OBJECTID": 473,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.020870774583258",
+          "37.798393256618013"
+        ],
+        "type": "Point"
+      },
+      "id": 476,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 476,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2572'; aperture card: 953026015",
+        "OBJECTID": 476,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.972295638281764",
+          "37.850533945255513"
+        ],
+        "type": "Point"
+      },
+      "id": 520,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 520,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2609'; aperture card: 336801001",
+        "OBJECTID": 520,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.972727687000102",
+          "37.850238415390379"
+        ],
+        "type": "Point"
+      },
+      "id": 521,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 521,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2603'; aperture card: 336801002",
+        "OBJECTID": 521,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.972679143682569",
+          "37.849333485648216"
+        ],
+        "type": "Point"
+      },
+      "id": 522,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 522,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2617'; aperture card: 336801003",
+        "OBJECTID": 522,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.974775208320295",
+          "37.849176223428991"
+        ],
+        "type": "Point"
+      },
+      "id": 523,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 523,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2609'; aperture card: 336801004",
+        "OBJECTID": 523,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.975415816543816",
+          "37.847167331129391"
+        ],
+        "type": "Point"
+      },
+      "id": 524,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 524,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2625'; aperture card: 336801006",
+        "OBJECTID": 524,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.972439092822981",
+          "37.846855718911776"
+        ],
+        "type": "Point"
+      },
+      "id": 525,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 525,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2620'; aperture card: 336801007",
+        "OBJECTID": 525,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.970739603540238",
+          "37.847441162793444"
+        ],
+        "type": "Point"
+      },
+      "id": 526,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 526,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2622'; aperture card: 336801009",
+        "OBJECTID": 526,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.969506178555648",
+          "37.845104644589298"
+        ],
+        "type": "Point"
+      },
+      "id": 527,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 527,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2625'; aperture card: 336801010",
+        "OBJECTID": 527,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.967905849123113",
+          "37.845095206211717"
+        ],
+        "type": "Point"
+      },
+      "id": 528,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 528,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2627'; aperture card: 336801011",
+        "OBJECTID": 528,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.96553713946598",
+          "37.845169345941066"
+        ],
+        "type": "Point"
+      },
+      "id": 529,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 529,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2629'; aperture card: 336801012",
+        "OBJECTID": 529,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.946919227673405",
+          "37.994508236016365"
+        ],
+        "type": "Point"
+      },
+      "id": 885,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 885,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 2462'",
+        "OBJECTID": 885,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.945392921425068",
+          "37.993211480766945"
+        ],
+        "type": "Point"
+      },
+      "id": 886,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 886,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 2442'",
+        "OBJECTID": 886,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.943855291336362",
+          "37.988911596545798"
+        ],
+        "type": "Point"
+      },
+      "id": 888,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 888,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 2468'",
+        "OBJECTID": 888,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.948740871547059",
+          "37.990459542383725"
+        ],
+        "type": "Point"
+      },
+      "id": 889,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 889,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 2481'",
+        "OBJECTID": 889,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.949798131484386",
+          "37.993190009940733"
+        ],
+        "type": "Point"
+      },
+      "id": 890,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 890,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 2459'",
+        "OBJECTID": 890,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.009682116216609",
+          "38.013898441436616"
+        ],
+        "type": "Point"
+      },
+      "id": 1137,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1137,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 1917'",
+        "OBJECTID": 1137,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.010700041359939",
+          "38.010311225645424"
+        ],
+        "type": "Point"
+      },
+      "id": 1138,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1138,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 1911'",
+        "OBJECTID": 1138,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.014473440902961",
+          "38.007295109277706"
+        ],
+        "type": "Point"
+      },
+      "id": 1139,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1139,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 1909'",
+        "OBJECTID": 1139,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.016693858628301",
+          "38.008671083258079"
+        ],
+        "type": "Point"
+      },
+      "id": 1140,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1140,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 1847'",
+        "OBJECTID": 1140,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.014918579946183",
+          "38.01168703362805"
+        ],
+        "type": "Point"
+      },
+      "id": 1141,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1141,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 1842'",
+        "OBJECTID": 1141,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.019767302688578",
+          "38.013267178103703"
+        ],
+        "type": "Point"
+      },
+      "id": 1142,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1142,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 1797'",
+        "OBJECTID": 1142,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.0137725063815",
+          "38.017396832647286"
+        ],
+        "type": "Point"
+      },
+      "id": 1143,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1143,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 1819'",
+        "OBJECTID": 1143,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.014549913220762",
+          "38.019592274993499"
+        ],
+        "type": "Point"
+      },
+      "id": 1144,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1144,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 1788'",
+        "OBJECTID": 1144,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.018102703873339",
+          "38.016927576177146"
+        ],
+        "type": "Point"
+      },
+      "id": 1145,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1145,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 1776'",
+        "OBJECTID": 1145,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.945233889516885",
+          "37.99572150210836"
+        ],
+        "type": "Point"
+      },
+      "id": 1148,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1148,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 2429'",
+        "OBJECTID": 1148,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.035687769110268",
+          "38.009092261148879"
+        ],
+        "type": "Point"
+      },
+      "id": 1211,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1211,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 1650'",
+        "OBJECTID": 1211,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.038850852606657",
+          "38.030152536326632"
+        ],
+        "type": "Point"
+      },
+      "id": 1212,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1212,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrsew, 1560'",
+        "OBJECTID": 1212,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.012265070047121",
+          "37.886130214408588"
+        ],
+        "type": "Point"
+      },
+      "id": 1215,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1215,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2525'",
+        "OBJECTID": 1215,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.007151413079526",
+          "37.86747353749184"
+        ],
+        "type": "Point"
+      },
+      "id": 1216,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1216,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2467'",
+        "OBJECTID": 1216,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.007618726179402",
+          "37.91189533173803"
+        ],
+        "type": "Point"
+      },
+      "id": 1227,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1227,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2381'",
+        "OBJECTID": 1227,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.008874898946161",
+          "37.904358537105992"
+        ],
+        "type": "Point"
+      },
+      "id": 1228,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1228,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2485'",
+        "OBJECTID": 1228,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-80.951396230307736",
+          "37.875286191935437"
+        ],
+        "type": "Point"
+      },
+      "id": 1236,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1236,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2542'",
+        "OBJECTID": 1236,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.012682517933712",
+          "37.906505997521911"
+        ],
+        "type": "Point"
+      },
+      "id": 1239,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1239,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2376'",
+        "OBJECTID": 1239,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-81.009148673802571",
+          "37.901407643211421"
+        ],
+        "type": "Point"
+      },
+      "id": 1240,
+      "properties": {
+        "AM_ROT": 0,
+        "FTYPE": "Borehole",
+        "FUID": 1240,
+        "GMAP_ID": 75738,
+        "LBL": null,
+        "NOTES": "PNnrfck, 2526'",
+        "OBJECTID": 1240,
+        "POS": 1,
+        "SENS": 0,
+        "SYM": "19.03.04_4_1"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
